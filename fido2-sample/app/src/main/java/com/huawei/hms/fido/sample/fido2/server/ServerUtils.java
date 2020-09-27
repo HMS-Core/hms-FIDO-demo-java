@@ -251,6 +251,9 @@ public class ServerUtils {
         }
         List<String> selectedAuthenticatorList = new ArrayList<>();
         for (AuthenticatorMetadata meta : fido2Client.getPlatformAuthenticators()) {
+            if( !meta.isAvailable() ){
+                continue;
+            }
             // Fingerprint authenticator
             if (meta.isSupportedUvm(AuthenticatorMetadata.UVM_FINGERPRINT)) {
                 selectedAuthenticatorList.add(meta.getAaguid());

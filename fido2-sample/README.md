@@ -66,6 +66,10 @@ FIDO2 includes two operations: registration and authentication. The processes ar
 6). Send the registration or authentication result to the FIDO server for verification.
 
 
+## Result
+<center class="half">
+<img src="images/registration_result.png" style="zoom:33%;" /><img src="images/authentication_result.png" style="zoom:33%;" />
+</center>
 
 ##  License
     FIDO2 Sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).

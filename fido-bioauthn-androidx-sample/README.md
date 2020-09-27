@@ -51,5 +51,10 @@ No additional configuration is required.
 3). Sends a 3D facial authentication request to the user device.
 
 
+## Result
+<center class="half">
+<img src="images/result.png" style="zoom:33%;" />
+</center>
+
 ##  License
 FIDO2 Sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).

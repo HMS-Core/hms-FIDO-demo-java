@@ -67,5 +67,10 @@ FIDO2 包含两个操作: 注册和认证。这两个操作的过程类似。
 6） 将注册或认证结果发送到 FIDO 服务器进行验证。
 
 
+## 结果
+<center class="half">
+<img src="images/registration_result.png" style="zoom:33%;" /><img src="images/authentication_result.png" style="zoom:33%;" />
+</center>
+
 ## 许可证
 此示例代码已获得[Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0)。

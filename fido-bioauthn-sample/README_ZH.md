@@ -58,5 +58,10 @@ API参考: https://developer.huawei.com/consumer/cn/doc/development/HMS-Referenc
 3）. 向用户设备发送 3D 面部认证请求。
 
 
+## 结果
+<center class="half">
+<img src="images/result.png" style="zoom:33%;" />
+</center>
+
 ## 许可证
 此示例代码已获得[Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0)。

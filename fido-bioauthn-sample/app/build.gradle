@@ -10,12 +10,12 @@ android {
             storePassword 'xxxxxx'
         }
     }
-    compileSdkVersion 28
-    buildToolsVersion "28.0.3"
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
     defaultConfig {
         applicationId "com.huawei.hms.fido.sample.bioauthn"
         minSdkVersion 19
-        targetSdkVersion 28
+        targetSdkVersion 29
         versionCode 1
         versionName "1.0"
     }
@@ -39,7 +39,7 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
 
-    implementation 'com.huawei.hms:fido-bioauthn:5.0.0.301'
+    implementation 'com.huawei.hms:fido-bioauthn:5.0.2.303'
 
     implementation 'com.huawei.agconnect:agconnect-core:1.3.1.300'
 
