@@ -1,7 +1,7 @@
 ## FIDO2 Sample
 [![License](https://img.shields.io/badge/Docs-hmsguides-brightgreen)](https://developer.huawei.com/consumer/cn/doc/development/HMS-Guides/FIDO2_Overview)
 
-中文 | [English](https://github.com/HMS-Core/hms-FIDO-demo-java/blob/master/fido2-sample/README.md)
+中文 | [English](README.md)
 
 
 ## 目录

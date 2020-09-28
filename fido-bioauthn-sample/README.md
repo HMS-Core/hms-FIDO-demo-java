@@ -1,7 +1,7 @@
 ## FIDO BioAuthn Sample
 [![License](https://img.shields.io/badge/Docs-hmsguides-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/FIDO2_Overview)
 
-English | [中文](https://github.com/HMS-Core/hms-FIDO-demo-java/blob/master/fido-bioauthn-sample/README_ZH.md)
+English | [中文](README_ZH.md)
 
 
 
