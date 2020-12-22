@@ -43,17 +43,13 @@ Java 1.7 or a later version is recommended.
 No additional configuration is required. 
 
 ## Sample Code
-
-1). Shows the fingerprint prompt without CryptoObject and allows the user to use the device PIN and password for authentication.
-
-2). Shows the fingerprint prompt with CryptoObject.
-
-3). Sends a 3D facial authentication request to the user device.
-
+1. Shows the fingerprint prompt without CryptoObject and allows the user to use the device PIN and password for authentication.
+2. Shows the fingerprint prompt with CryptoObject.
+3. Sends a 3D facial authentication request to the user device.
 
 ## Result
 <center class="half">
-<img src="images/result.png" style="zoom:33%;" />
+<img src="images/result.png" width=250>
 </center>
 
 ##  License
