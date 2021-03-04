@@ -8,8 +8,8 @@
 ## 简介
 项目目录如下：
 1. [fido2-sample](fido2-sample):提供使用fido2基础功能的示例：注册和认证。
-2. [fido-bioauthn-androidx-sample](fido-bioauthn-androidx-sample): 提供使用BioAuthn-AndroidX SDK基础功能的示例：指纹和 3D 面部身份验证。
-3. [fido-bioauthn-sample](fido-bioauthn-sample): 提供使用BioAuthn SDK基础功能的示例：指纹和 3D 面部身份验证。
+2. [fido-bioauthn-androidx-sample](fido-bioauthn-androidx-sample): 提供使用BioAuthn-AndroidX SDK基础功能的示例：指纹和面部身份验证。
+3. [fido-bioauthn-sample](fido-bioauthn-sample): 提供使用BioAuthn SDK基础功能的示例：指纹和面部身份验证。
 
 ## 技术支持
 如果您对HMS Core还处于评估阶段，可在[Reddit社区](https://www.reddit.com/r/HuaweiDevelopers/)获取关于HMS Core的最新讯息，并与其他开发者交流见解。
