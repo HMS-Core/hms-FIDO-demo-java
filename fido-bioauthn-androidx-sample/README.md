@@ -44,7 +44,9 @@ No additional configuration is required.
 
 ## Sample Code
 1). Shows the fingerprint prompt without CryptoObject and allows the user to use the device PIN and password for authentication.
+
 2). Shows the fingerprint prompt with CryptoObject.
+
 3). Sends a facial authentication request to the user device.
 
 ## Result
