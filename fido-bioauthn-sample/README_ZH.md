@@ -60,7 +60,7 @@ API参考: https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Refe
 
 ## 结果
 <center class="half">
-<img src="images/result.png" style="zoom:33%;" />
+<img src="images/result.png" width=250 />
 </center>
 
 ## 许可证
