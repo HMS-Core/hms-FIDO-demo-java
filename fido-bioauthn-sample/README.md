@@ -63,7 +63,7 @@ No additional configuration is required.
 
 ## Result
 <center class="half">
-<img src="images/result.png" style="zoom:33%;" />
+<img src="images/result.png" width=250 />
 </center>
 
 ##  License
