@@ -1,5 +1,5 @@
 ## FIDO2 Sample
-[![License](https://img.shields.io/badge/Docs-hmsguides-brightgreen)](https://developer.huawei.com/consumer/cn/doc/development/HMS-Guides/FIDO2_Overview)
+[![License](https://img.shields.io/badge/Docs-hmsguides-brightgreen)](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001051069988)
 
 中文 | [English](README.md)
 
@@ -21,9 +21,9 @@ FIDO2 Sample 提供了许多示例代码供参考。
 ## 开始
 更多开发详细信息，请参阅以下链接：
 
-开发指南: https://developer.huawei.com/consumer/cn/doc/development/HMS-Guides/FIDO2_Overview
+开发指南: https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/dev-guide-0000001050750053
 
-API参考: https://developer.huawei.com/consumer/cn/doc/development/HMS-References/FIDO2Packagecomhuaweihmssupportapifidofido2
+API参考: https://developer.huawei.com/consumer/cn/doc/development/HMSCore-References-V5/fido2overview-0000001050176660-V5
 
 我们还提供了一个示例来演示Android上FIDO2 SDK的使用。
 
@@ -33,7 +33,7 @@ API参考: https://developer.huawei.com/consumer/cn/doc/development/HMS-Referenc
 
 在 Android Studio中，使用"Open an existing Android Studio project"，然后选择"fido2-sample"的目录。
 
-您需要在AppGallery Connect中创建一个应用，并获取agconnect-services.json文件并添加到项目中。您还需要生成签名证书指纹并将证书文件添加到项目中，并将配置添加到 build.gradle。请参阅[AppGallery Connect配置](https://developer.huawei.com/consumer/cn/doc/development/HMS-Guides/hms-map-configuringinagc)指南，在 AppGallery Connect中配置应用。
+您需要在AppGallery Connect中创建一个应用，并获取agconnect-services.json文件并添加到项目中。您还需要生成签名证书指纹并将证书文件添加到项目中，并将配置添加到 build.gradle。请参阅[AppGallery Connect配置](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/config-agc-0000001050262772)指南，在 AppGallery Connect中配置应用。
 
 在build.gradle中，使用你自己的applicationId替换掉 "com.huawei.hms.fido.sample.fido2"。
 
