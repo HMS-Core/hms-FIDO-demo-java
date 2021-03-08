@@ -1,5 +1,5 @@
 ## FIDO2 Sample
-[![License](https://img.shields.io/badge/Docs-hmsguides-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/FIDO2_Overview)
+[![License](https://img.shields.io/badge/Docs-hmsguides-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001051069988)
 
 English | [中文](README_ZH.md)
 
@@ -18,7 +18,7 @@ English | [中文](README_ZH.md)
 FIDO2 Sample provides many sample programs for your reference or usage.
 
 ## Getting Started
-For more development details, please refer to the following link: [Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/FIDO2_Overview) & [API References](https://developer.huawei.com/consumer/en/doc/development/HMS-References/FIDO2Packagecomhuaweihmssupportapifidofido2)
+For more development details, please refer to the following link: [Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/dev-guide-0000001050750053) & [API References](https://developer.huawei.com/consumer/en/doc/development/HMSCore-References-V5/fido2overview-0000001050176660-V5)
 
 We also provide an example to demonstrate the use of FIDO2 SDK for Android.
 
@@ -64,7 +64,7 @@ FIDO2 includes two operations: registration and authentication. The processes ar
 
 ## Result
 <center class="half">
-<img src="images/registration_result.png" width=250><img src="images/authentication_result.png" width=250>
+<img src="images/registration_result.png" style="zoom:33%;" /><img src="images/authentication_result.png" style="zoom:33%;" />
 </center>
 
 ##  License
