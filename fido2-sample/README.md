@@ -64,7 +64,7 @@ FIDO2 includes two operations: registration and authentication. The processes ar
 
 ## Result
 <center class="half">
-<img src="images/registration_result.png" style="zoom:33%;" /><img src="images/authentication_result.png" style="zoom:33%;" />
+<img src="images/registration_result.png" width=250/><img src="images/authentication_result.png" width=250/>
 </center>
 
 ##  License
