@@ -69,7 +69,7 @@ FIDO2 包含两个操作: 注册和认证。这两个操作的过程类似。
 
 ## 结果
 <center class="half">
-<img src="images/registration_result.png" style="zoom:33%;" /><img src="images/authentication_result.png" style="zoom:33%;" />
+<img src="images/registration_result.png" width=250/><img src="images/authentication_result.png" width=250 />
 </center>
 
 ## 许可证
