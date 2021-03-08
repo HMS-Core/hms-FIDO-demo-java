@@ -1,5 +1,5 @@
 # FIDO BioAuthn AndroidX Sample
-[![License](https://img.shields.io/badge/Docs-hmsguides-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/FIDO2_Overview)
+[![License](https://img.shields.io/badge/Docs-hmsguides-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001051069988)
 
 English | [中文](README_ZH.md)
 
@@ -19,14 +19,14 @@ FIDO BioAuthn AndroidX Sample provides many sample programs for your reference o
 
 ## Getting Started
 For more development details, please refer to the following link:
-[Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/FIDO2_Overview) & [API References](https://developer.huawei.com/consumer/en/doc/development/HMS-References/hmssupportapifidobioauthnAPI)
+[Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/bioauthn-androidx-sdk-0000001055876259) & [API References](https://developer.huawei.com/consumer/en/doc/development/HMSCore-References-V5/bioauthnandroidxoverview-0000001050178779-V5)
 
 We also provide an example to demonstrate the use of BioAuthn Androidx SDK for Android.
 This sample uses the Gradle build system.
 First download the demo by cloning this repository or downloading an archived snapshot.
 
 In Android Studio, use the "Open an existing Android Studio project", and select the directory of "fido-bioauthn-androidx-sample".
-You should create an app in AppGallery Connect, and obtain the file of agconnect-services.json and add to the project. You should also generate a signing certificate fingerprint and add the certificate file to the project, and add configuration to build.gradle. See the [Configuring App Information in AppGallery Connect](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/hms-map-configuringinagc) guide to configure app in AppGallery Connect.
+You should create an app in AppGallery Connect, and obtain the file of agconnect-services.json and add to the project. You should also generate a signing certificate fingerprint and add the certificate file to the project, and add configuration to build.gradle. See the [Configuring App Information in AppGallery Connect](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/config-agc-0000001050262772) guide to configure app in AppGallery Connect.
 
 Replace "com.huawei.hms.fido.sample.bioauthn" in build.gradle with you own applicationId.
 
@@ -43,9 +43,9 @@ Java 1.7 or a later version is recommended.
 No additional configuration is required. 
 
 ## Sample Code
-1. Shows the fingerprint prompt without CryptoObject and allows the user to use the device PIN and password for authentication.
-2. Shows the fingerprint prompt with CryptoObject.
-3. Sends a 3D facial authentication request to the user device.
+1). Shows the fingerprint prompt without CryptoObject and allows the user to use the device PIN and password for authentication.
+2). Shows the fingerprint prompt with CryptoObject.
+3). Sends a facial authentication request to the user device.
 
 ## Result
 <center class="half">
