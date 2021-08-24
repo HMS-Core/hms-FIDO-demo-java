@@ -39,7 +39,7 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
 
-    implementation 'com.huawei.hms:fido-bioauthn:5.2.0.301'
+    implementation 'com.huawei.hms:fido-bioauthn:6.1.0.300'
 
     implementation 'com.huawei.agconnect:agconnect-core:1.4.1.300'
 
