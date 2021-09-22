@@ -20,9 +20,9 @@ FIDO BioAuthn Sample 提供了许多示例代码供参考。
 ## 开始
 更多开发详细信息，请参阅以下链接：
 
-开发指南: https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/bioauthn-sdk-0000001055606575
+开发指南: https://developer.huawei.com/consumer/cn/doc/development/Security-Guides/introduction-0000001051069988
 
-API参考: https://developer.huawei.com/consumer/cn/doc/development/HMSCore-References-V5/bioauthnoverview-0000001050268268-V5
+API参考: https://developer.huawei.com/consumer/cn/doc/development/Security-References/overview-0000001077338138
 
 我们还提供了一个示例来演示Android上BioAuthn SDK的使用。
 
@@ -32,7 +32,7 @@ API参考: https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Refe
 
 在 Android Studio中，使用"Open an existing Android Studio project"，然后选择"fido-bioauthn-sample"的目录。
 
-您需要在AppGallery Connect中创建一个应用，并获取agconnect-services.json文件并添加到项目中。您还需要生成签名证书指纹并将证书文件添加到项目中，并将配置添加到 build.gradle。请参阅[AppGallery Connect配置](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/config-agc-0000001050262772)指南，在 AppGallery Connect中配置应用。
+您需要在AppGallery Connect中创建一个应用，并获取agconnect-services.json文件并添加到项目中。您还需要生成签名证书指纹并将证书文件添加到项目中，并将配置添加到 build.gradle。请参阅[AppGallery Connect配置](https://developer.huawei.com/consumer/cn/doc/development/Security-Guides/config-agc-0000001050262772)指南，在 AppGallery Connect中配置应用。
 
 在build.gradle中，使用你自己的applicationId替换掉 "com.huawei.hms.fido.sample.bioauthn"。
 
