@@ -22,9 +22,9 @@ FIDO BioAuthn Sample provides many sample programs for your reference or usage.
 ## Getting Started
 For more development details, please refer to the following link:
 
-Development Guide: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/bioauthn-sdk-0000001055606575
+Development Guide: https://developer.huawei.com/consumer/en/doc/development/Security-Guides/introduction-0000001051069988
 
-API References: https://developer.huawei.com/consumer/en/doc/development/HMSCore-References-V5/bioauthnoverview-0000001050268268-V5
+API References: https://developer.huawei.com/consumer/en/doc/development/Security-References/overview-0000001077338138
 
 
 We also provide an example to demonstrate the use of BioAuthn SDK for Android.
@@ -35,7 +35,7 @@ First download the demo by cloning this repository or downloading an archived sn
 
 In Android Studio, use the "Open an existing Android Studio project", and select the directory of "fido-bioauthn-sample".
 
-You should create an app in AppGallery Connect, and obtain the file of agconnect-services.json and add to the project. You should also generate a signing certificate fingerprint and add the certificate file to the project, and add configuration to build.gradle. See the [Configuring App Information in AppGallery Connect](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/config-agc-0000001050262772) guide to configure app in AppGallery Connect.
+You should create an app in AppGallery Connect, and obtain the file of agconnect-services.json and add to the project. You should also generate a signing certificate fingerprint and add the certificate file to the project, and add configuration to build.gradle. See the [Configuring App Information in AppGallery Connect](https://developer.huawei.com/consumer/en/doc/development/Security-Guides/config-agc-0000001050262772) guide to configure app in AppGallery Connect.
 
 Replace "com.huawei.hms.fido.sample.bioauthn" in build.gradle with you own applicationId.
 
