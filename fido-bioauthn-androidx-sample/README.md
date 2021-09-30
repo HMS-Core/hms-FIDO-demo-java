@@ -37,7 +37,7 @@ Before using FIDO BioAuthn AndroidX Sample code, check whether the java environm
 Decompress the FIDO BioAuthn AndroidX Sample code package.
 
 ## Supported Environments
-Java 1.7 or a later version is recommended.
+Java 1.8 or a later version is recommended.
 
 ## Configuration
 No additional configuration is required. 
