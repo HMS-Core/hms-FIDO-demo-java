@@ -44,7 +44,7 @@ API参考: https://developer.huawei.com/consumer/cn/doc/development/Security-Ref
 解压FIDO BioAuthn Sample代码zip包。
 
 ## 支持环境
-推荐使用Java 1.7及以上版本。
+推荐使用Java 1.8及以上版本。
 
 ## 配置
 无需更多配置。
