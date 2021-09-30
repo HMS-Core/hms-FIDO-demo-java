@@ -39,7 +39,7 @@ Before using FIDO2 Sample code, check whether the java environment and Android S
 Decompress the FIDO2 Sample code package.
 
 ## Supported Environments
-Java 1.7 or a later version is recommended.
+Java 1.8 or a later version is recommended.
 
 ## Configuration
 No additional configuration is required.
